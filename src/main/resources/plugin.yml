@@ -1,0 +1,6 @@
+name: W-ServerApi
+version: 1.0
+author: Woxerss
+main: com.woxerss.wserverapi.Main
+softdepend:
+  - AuthMe
